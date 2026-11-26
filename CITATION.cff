@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+title: Sixth-Dimension Theory of Consciousness and Perceived Space
+message: If you use this work, please cite it as below.
+type: article
+authors:
+    - family-names: Pangan
+    given-names: Angelica
+    affiliation: Earth Angel Ventures
+    orcid: https://orcid.org/0009-0007-2793-5008
+    email: earthangelventuresph@gmail.com
+version: 1.0
+date-released: 2026-10-27
+identifiers:
+    - type: other
+    value: EAV-SDT-001
+    description: Project ID
+    - type: other
+    value: EAV-SDT-001-M01
+    description: Manuscript ID
+license: CC-BY-4.0
+repository-code: https://github.com/earthangelventuresph
+keywords:
+    - sixth dimension
+    - consciousness
+    - perception
+    - perceived space
+    - internal generation
+    - source monitoring
+    - sensory anchoring
+    - cloud visibility
+    - falsification
+    - psychophysics
+    - cognitive neuroscience
+abstract: >-
+  The sixth dimension is defined as a perceptual-representational coordinate,
+  x6 = G, the internally generated share of a percept. The state criterion is
+  D = 1 when G >= 0.70 and Q >= 0.80. The Cloud-Visibility Rule states
+  V = 1 -> D = 0. Hypothesis and experimental protocol. No empirical data
+  have been collected. No results are claimed. Ethics not yet approved.
